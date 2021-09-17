@@ -1,3 +1,5 @@
+package com.kuang.base;
+
 // 基本类型拓展
 public class Demo04 {
     public static void main(String[] args) {

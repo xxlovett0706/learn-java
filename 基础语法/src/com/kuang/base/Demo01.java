@@ -1,3 +1,5 @@
+package com.kuang.base;
+
 // 三种注释注释
 public class Demo01 {
     public static void main(String[] args) {

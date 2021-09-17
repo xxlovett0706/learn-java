@@ -1,3 +1,5 @@
+package com.kuang.base;
+
 // 打印 Hello World！
 public class Demo00 {
     public static void main(String[] args) {

@@ -1,3 +1,5 @@
+package com.kuang.base;
+
 // 类型转换
 // byte, short, char -> int -> long -> float -> double
 public class Demo05 {

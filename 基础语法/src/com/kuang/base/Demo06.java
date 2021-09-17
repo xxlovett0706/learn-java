@@ -1,3 +1,5 @@
+package com.kuang.base;
+
 // 类型转换补充
 public class Demo06 {
     public static void main(String[] args) {

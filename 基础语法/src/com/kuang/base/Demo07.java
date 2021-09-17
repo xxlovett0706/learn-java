@@ -1,4 +1,7 @@
+package com.kuang.base;
+
 // 变量、变量作用域和变量的命名规则
+// macOS alt + command + v 快速生成 类名
 /*
  * 命名规则：
  * 变量：首字母小写和驼峰规则 lastName

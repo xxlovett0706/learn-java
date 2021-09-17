@@ -1,3 +1,5 @@
+package com.kuang.base;
+
 // 八大基本数据类型
 public class Demo03 {
     public static void main(String[] args) {

@@ -1,3 +1,5 @@
+package com.kuang.base;
+
 // 标识符
 public class Demo02 {
     public static void main(String[] args) {

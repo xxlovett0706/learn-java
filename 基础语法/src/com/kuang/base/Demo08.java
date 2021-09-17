@@ -1,3 +1,5 @@
+package com.kuang.base;
+
 // 常量
 public class Demo08 {
 
